@@ -1,6 +1,5 @@
 # FairCoRe
-This is the pytorch implementation of FairCoRe in paper FairCoRe: Fairness-aware Recommendation through Counterfactual Representation Learning, which is accepted by the Transactions on Knowledge and Data Engineering (TKDE).
-
+This is the pytorch implementation of FairCoRe in paper FairCoRe: Fairness-aware Recommendation through Counterfactual Representation Learning
 ## Acknowledgments  
 
 The code is developed based on part of the code in the following paper 
